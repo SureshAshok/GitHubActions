@@ -1,0 +1,5 @@
+server :
+  port : 9191
+  h2:
+    console:
+      enabled : true
