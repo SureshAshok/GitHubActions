@@ -92,6 +92,7 @@
                 </configuration>
             </plugin>
         </plugins>
+        <finalName>github-action-workflow</finalName>
     </build>
 
 </project>
