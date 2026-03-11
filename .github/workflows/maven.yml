@@ -29,7 +29,7 @@ jobs:
       with :
         image:  ashoksuresh/github-action-workflow
         tags : latest
-        registry : registry.io
+        registry : registry-url.io
         dockerfile : Dockerfile
         username : ${{ secrets.DOCKER_USERNAME}}
         password : ${{ secrets.DOCKER_PASSWORD}}
